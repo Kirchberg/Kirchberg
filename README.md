@@ -1,5 +1,5 @@
 ## Hi reptilians 🐍
-### Also, my name is Kirill!
+### My name is Kirill!
 
 - 🤓 I am currently studying at BMSTU
 - 🌱 I’m currently learning Swift

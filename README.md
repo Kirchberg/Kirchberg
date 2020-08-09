@@ -1,7 +1,7 @@
 ## Hi reptilians 🐍
 ### My name is Kirill!
 
-- 🤓 I am currently studying at BMSTU;
+- 🤓 I'm currently studying at BMSTU;
 - 🌱 I’m currently learning Swift;
 - 🤔 I’m looking for help with iOS, iPadOS, macOS development;
 - ⚡ Fun fact: I was born for programming;

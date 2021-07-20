@@ -25,3 +25,4 @@
 ### More information about me:
 * https://stackoverflow.com/users/14064592/kostarev-kirill?tab=profile
 * https://exercism.io/profiles/Kirchberg
+* https://www.linkedin.com/in/kirill-kostarev-9ab077218

@@ -7,6 +7,12 @@
 - ⚡ Fun fact: Shiba Inu is the best dog in the world 🐕;
 - ❤️ Love: Functional Programming and TDD;
 
+### More information about me:
+* LinkedIn: https://www.linkedin.com/in/kirill-kostarev-9ab077218
+* Stack Overflow: https://stackoverflow.com/users/14064592/kostarev-kirill?tab=profile
+* LeetCode: https://leetcode.com/Kirchberg/
+* Exercism: https://exercism.io/profiles/Kirchberg
+
 <b>Languages and Tools:</b>
 <div>
   <p><img align="center" src="https://github.com/Kirchberg/Kirchberg/blob/master/LanguageAndTools/swift-hex-turquoise.png" width="60" height="65"> 
@@ -21,8 +27,3 @@
 [![Kirchberg's github stats](https://github-readme-stats.vercel.app/api?username=kirchberg&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirchberg)](https://github.com/anuraghazra/github-readme-stats)<br>
-
-### More information about me:
-* https://stackoverflow.com/users/14064592/kostarev-kirill?tab=profile
-* https://exercism.io/profiles/Kirchberg
-* https://www.linkedin.com/in/kirill-kostarev-9ab077218

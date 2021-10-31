@@ -13,13 +13,9 @@
 * LeetCode: https://leetcode.com/Kirchberg/
 * Exercism: https://exercism.io/profiles/Kirchberg
 
-<b>Languages and Tools:</b>
+<b>Favourite Languages:</b>
 <div>
   <p><img align="center" src="https://github.com/Kirchberg/Kirchberg/blob/master/LanguageAndTools/swift-hex-turquoise.png" width="60" height="65"> 
     <img align="center" src="https://github.com/Kirchberg/Kirchberg/blob/master/LanguageAndTools/ruby-hex-turquoise.png" width="60" height="65">
-    <img align="center" src="https://github.com/Kirchberg/Kirchberg/blob/master/LanguageAndTools/cpp-hex-white.png" width="60" height="65">
-    <img align="center" src="https://github.com/Kirchberg/Kirchberg/blob/master/LanguageAndTools/x86-64-assembly-hex-white.png" width="60" height="65">
-    <img align="center" src="https://github.com/Kirchberg/Kirchberg/blob/master/LanguageAndTools/plsql-hex-white.png" width="60" height="65">
-    <img align="center" src="https://github.com/Kirchberg/Kirchberg/blob/master/LanguageAndTools/javascript-hex-white.png" width="60" height="65">
   </p>
 </div>

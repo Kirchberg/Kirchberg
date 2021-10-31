@@ -23,5 +23,3 @@
     <img align="center" src="https://github.com/Kirchberg/Kirchberg/blob/master/LanguageAndTools/javascript-hex-white.png" width="60" height="65">
   </p>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirchberg)](https://github.com/anuraghazra/github-readme-stats)<br>

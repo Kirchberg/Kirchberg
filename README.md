@@ -15,7 +15,9 @@
 
 <b>Favourite Languages:</b>
 <div>
-  <p><img align="center" src="https://github.com/Kirchberg/Kirchberg/blob/master/LanguageAndTools/swift-hex-turquoise.png" width="60" height="65"> 
-    <img align="center" src="https://github.com/Kirchberg/Kirchberg/blob/master/LanguageAndTools/ruby-hex-turquoise.png" width="60" height="65">
+  <p>
+    <img align="center" src="https://dg8krxphbh767.cloudfront.net/tracks/swift.svg" width="60" height="65"> 
+    <img align="center" src="https://dg8krxphbh767.cloudfront.net/tracks/dart.svg" width="60" height="65">
+    <img align="center" src="https://dg8krxphbh767.cloudfront.net/tracks/ruby.svg" width="60" height="65">
   </p>
 </div>

@@ -2,10 +2,10 @@
 ### My name is Kirill!
 
 - 🤓 I'm currently studying at BMSTU;
-- 🌱 I’m currently learning Swift;
-- 🤔 I’m looking for help with iOS, iPadOS, macOS development;
+- 🌱 I’m currently learning Dart/Flutter;
+- 🤔 I’m looking for help with cross-platform development;
 - ⚡ Fun fact: Shiba Inu is the best dog in the world 🐕;
-- ❤️ Love: Functional Programming and TDD;
+- ❤️ Love: Cool decisions that makes app better;
 
 ### More information about me:
 * LinkedIn: https://www.linkedin.com/in/kirill-kostarev-9ab077218

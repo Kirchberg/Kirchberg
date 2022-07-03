@@ -13,7 +13,7 @@
 * LeetCode: https://leetcode.com/Kirchberg/
 * Exercism: https://exercism.io/profiles/Kirchberg
 
-<b>Favourite Languages:</b>
+### Favourite Languages: ###
 <div>
   <p>
     <img align="center" src="https://dg8krxphbh767.cloudfront.net/tracks/swift.svg" width="70" height="75">

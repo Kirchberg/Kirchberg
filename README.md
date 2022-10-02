@@ -2,9 +2,8 @@
 ### My name is Kirill!
 
 - 🤓 Bachelor of Computer Science | BMSTU
-- 🌱 I’m currently learning Dart/Flutter and Python
-- 🤔 I’m looking for help with cross-platform development
-- ⚡ Fun fact: Shiba Inu is the best dog in the world 🐕
+- 🌱 I’m currently learning ML in iOS, Dart/Flutter and Python
+- ⚡ Shiba Inu is the best dog in the world 🐕
 - ❤️ Love: Cool decisions that makes app better
 
 ### More information about me:

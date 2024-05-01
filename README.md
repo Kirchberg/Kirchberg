@@ -21,7 +21,3 @@
     <img align="center" src="https://dg8krxphbh767.cloudfront.net/tracks/dart.svg" width="70" height="75">
   </p>
 </div>
-
-### Support ###
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kirchberg)

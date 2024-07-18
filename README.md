@@ -1,8 +1,8 @@
 ## Hi reptilians 🐍
 ### My name is Kirill!
 
-- 🤓 Bachelor of Computer Science | BMSTU
-- 🌱 I’m currently learning ML in iOS, Dart/Flutter and Python
+- 🤓 Master of Computer Science | BMSTU
+- 🌱 I’m currently making the new game changer project
 - ⚡ Shiba Inu is the best dog in the world 🐕
 - ❤️ Love: Cool decisions that makes app better
 

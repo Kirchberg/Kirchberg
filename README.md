@@ -5,6 +5,7 @@
 - 🌱 I’m currently making the new game changer project on Godot
 - ⚡ Shiba Inu is the best dog in the world 🐕
 - ❤️ Love: Cool decisions that makes app better
+- 💼 Job: iOS & tvOS Developer at Yandex, Kinopoisk
 
 ### More information about me:
 * LinkedIn: https://www.linkedin.com/in/kirill-kostarev-9ab077218

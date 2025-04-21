@@ -2,7 +2,6 @@
 ### My name is Kirill!
 
 - 🤓 Master's degree of Computer Science | BMSTU (GPA: 4.95)
-- 🌱 I’m currently making the new game changer project
 - ⚡ Shiba Inu is the best dog in the world 🐕
 - ❤️ Love: Cool decisions that makes app better
 - 💼 Job: iOS & tvOS Developer at Yandex, Kinopoisk

@@ -4,7 +4,7 @@
 - 🤓 Master's degree of Computer Science | BMSTU (GPA: 4.95)
 - ⚡ Shiba Inu is the best dog in the world 🐕
 - ❤️ Love: Cool decisions that makes app better
-- 💼 Job: iOS & tvOS Developer at Yandex, Kinopoisk
+- 💼 Job: iOS & tvOS Developer at Yandex, Kinopoisk/Yango Play
 
 ### More information about me:
 * LinkedIn: https://www.linkedin.com/in/kirill-kostarev-9ab077218

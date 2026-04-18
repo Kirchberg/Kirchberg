@@ -12,10 +12,15 @@
 * LeetCode: https://leetcode.com/Kirchberg/
 * Exercism: https://exercism.io/profiles/Kirchberg
 
-### Favourite Languages: ###
-<div>
-  <p>
-    <img align="center" src="https://assets.exercism.org/tracks/swift.svg" width="70" height="75">
-    <img align="center" src="https://assets.exercism.org/tracks/ruby.svg" width="70" height="75">
-  </p>
-</div>
+### Favourite Languages:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://assets.exercism.org/tracks/swift.svg" width="70" height="75" alt="Swift" />
+    </td>
+    <td>
+      <img src="https://assets.exercism.org/tracks/ruby.svg" width="70" height="75" alt="Ruby" />
+    </td>
+  </tr>
+</table>
